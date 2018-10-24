@@ -1,3 +1,8 @@
+
+# MultiKit
+
+**Unreal Engine (4.20+) framework for multiplayer development.**
+
 ### Introduction
 
 **[Unreal Engine](https://discordapp.com/)** is a source-available game engine developed by Epic Games.
@@ -19,4 +24,7 @@ MultiKit was created at Riverbank High School during the 2018 school year. It wa
 ### FAQs
 
 Why MultiKit?
-- MultiKit is great for classes that teach video game development with Unreal Engine. It's free to use, and our documentation is constantly updated with tutorials and information to customize your game.
+- MultiKit is great for classes that teach video game development with Unreal Engine. It's free to use, and our documentation is constantly updated with tutorials and information to customize your game.\
+
+Are there any alternatives to MultiKit?
+- You can find other multiplayer frameworks for Unreal Engine at the [Unreal Marketplace](https://www.unrealengine.com/marketplace/store). 
