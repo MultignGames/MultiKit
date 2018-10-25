@@ -15,7 +15,7 @@
 
 ### Documentation
 
-Please visit this project's [Wiki](https://github.com/multign/MultiKit/wiki) for documentation and tutorials.
+Please visit this project's [Wiki](https://github.com/MultignGames/MultiKit/wiki) for documentation and tutorials.
 
 ### History
 
