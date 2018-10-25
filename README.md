@@ -11,7 +11,7 @@
 ### Installation
 
 - To install Unreal Engine, visit https://www.unrealengine.com/en-US/blog and agree to their End User License Agreement to download the engine.
-- To install Visual Studio, visit https://visualstudio.microsoft.com and follow the instructions for your specific operating system.
+- To install Visual Studio, visit https://visualstudio.microsoft.com and follow the instructions for your specified operating system.
 
 ### Documentation
 
